@@ -40,3 +40,34 @@ body{
     border-radius: 15px;
 }
 /* first section style part end */
+
+/* second setion style part */
+.flexible-container2{
+    display: flex;
+    padding: 5%;
+    
+}
+.half-width2{
+    width: 50%;
+    margin-left: 6%;
+}
+.half-width2 img{
+    width: 80%;
+    border-radius: 50%;
+}
+.half-width2 h2{
+    font-size: 40px;
+    font-weight: 900;
+}
+.half-width2 p{
+    font-size: larger;
+}
+.half-width2 a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: 700;
+    background-image: linear-gradient(cyan, teal);
+    padding: 18px 30px;
+    border-radius: 15px;
+}
+/* second setion style part end */
