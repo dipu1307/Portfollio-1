@@ -106,3 +106,12 @@ body{
     border-image-slice: 2;
 }
 /* third section style part end */
+
+/* footer section style part start */
+footer p{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 25px;
+    font-weight: bold;
+}
+/* footer section style part end */
